@@ -1,4 +1,4 @@
-# Multi-Camera Person-Detection Surveillance (C++/OpenCV)
+# Real-Time-Surveillance-System (C++/OpenCV)
 
 A simple multi-camera surveillance that detects people using an OpenCV Haar cascade and triggers an audible alarm. 
 
